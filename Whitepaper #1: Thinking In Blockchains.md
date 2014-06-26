@@ -1,6 +1,9 @@
 Whitepaper #1: Thinking In Blockchains
+
 BY BRYCE WEINER · APR 3, 2014
+
 http://coinchomp.com/2014/04/03/whitepaper-1-thinking-blockchains/
+
 https://docs.google.com/a/blocktech.com/document/d/1fqwl8PFBvpsV_FloRqy-NUQQOIgJGdjEe8HUYToKKP0/edit#
 ___
 # Thinking in Blockchains
